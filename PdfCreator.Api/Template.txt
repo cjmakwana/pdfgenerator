@@ -1,0 +1,6 @@
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.strunkmedia.com/wp-content/uploads/2018/05/bigstock-Print-163213010.png" alt="" width="200" height="101" /></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="##qrCode##" alt="" /></p>
+<p style="text-align: center; font-size: 30px">##serialNo##</p>
+<p style="text-align: center; font-size: 20px">##feederNo##</p>
+<p style="text-align: center; font-size: 15px">##customText##</p>
